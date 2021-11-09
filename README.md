@@ -20,7 +20,7 @@ Downloading through PIP:
 
 Then Running:
 
-<strong>Python3 bot.py></strong>
+<strong>Python3 bot.py</strong>
 
 ## Contact
 
