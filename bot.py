@@ -1,3 +1,12 @@
+
+#############################################################################
+#                                                                           #                                          #                                                                   #                                                                          #
+# Response Bot Discord.py                                                   #
+# Made by rhysfr on Github!                                                 #
+#                                                                           #
+#############################################################################
+
+
 import discord # importing discord module
 
 bot = discord.Client() 
