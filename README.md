@@ -2,8 +2,8 @@ Response bot for Discord.
 
 EG:
 
-User: Hello!
-Bot: Hello there!
+* User: Hello!
+* Bot: Hello there!
 
 ## About
 Very customizable, no credits needed.
