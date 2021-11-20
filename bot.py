@@ -14,8 +14,7 @@ bot = discord.Client()
 @bot.event
 async def on_ready():
     await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name='Your Status Here')) # Change your status here
-    print('Connected to bot: {}'.format(bot.user.name)) # Shows that bot is connected to your token and Discord APi
-
+    print('Connected to bot: {}'.format(bot.user.name)) # Shows that bot is connected to your token and Discord API
 @bot.event
 async def on_message(message):
     if message.author == bot.user:
